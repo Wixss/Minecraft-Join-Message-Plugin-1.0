@@ -3,7 +3,7 @@ Minecraft Join Message Plugin 1.0
 
 -------------------------------------------
 # GENERAL INFORMATION
-Versions You Can Use the Plugin: **1.21.4**
+Versions You Can Use the Plugin: **1.20.4**
 
 Plugin Version: **1.0**
 
